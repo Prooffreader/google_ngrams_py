@@ -26,7 +26,7 @@ Output:
     1943  0.015727      0.001123
     1944  0.049249      0.000000
 
-![](example.png)
+![chart](https://github.com/Prooffreader/google_ngrams_py/blob/master/example.png)
 
 
 ###DOCSTRING:#
